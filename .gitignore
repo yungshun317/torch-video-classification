@@ -1,5 +1,4 @@
-datasets/
-images/
+data/
 models/
 *.h5
 *.npy
